@@ -1,5 +1,6 @@
 # Spotify Data
 Deep Dive into Personal Spotify Data
+https://support.spotify.com/us/article/understanding-my-data/
 
 
 ## Data Files
